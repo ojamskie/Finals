@@ -1,0 +1,23 @@
+body {
+  background-image: url("../images/pawel-czerwinski-BAiRfbt1HRE-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-opacity-dark {
+  background-color: rgba(136, 103, 41, 0.849);
+  border: solid black 2px;
+}
+
+.bg-opacity-secondary {
+  background-color: rgba(224, 224, 224, 0.74);
+}
+
+.bg-opacity-tan {
+  background-color: rgba(210, 180, 140, 0.822);
+}
+.container {
+  max-width: 960px!important;
+}
+
